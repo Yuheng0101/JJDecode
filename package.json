@@ -1,0 +1,9 @@
+{
+  "name": "jjdecode",
+  "version": "1.0.0",
+  "description": "decode for JJEncode",
+  "main": "main.js",
+  "scripts": {
+    "decode": "node main.js"
+  }
+}
